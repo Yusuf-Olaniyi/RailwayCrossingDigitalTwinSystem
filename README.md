@@ -134,7 +134,7 @@ python train_publisher.py
 
 
 ```markdown
-![Dashboard Screenshot](/dashboard.png)
+![Dashboard Screenshot](/Dashboard.png)
 ```
 
 ---
