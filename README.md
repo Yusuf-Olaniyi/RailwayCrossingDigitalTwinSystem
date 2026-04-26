@@ -130,15 +130,6 @@ python train_publisher.py
 
 ---
 
-## Dashboard Preview
-
-
-```markdown
-![Dashboard Screenshot](Dashboard.png?raw=true)
-```
-
----
-
 ## Project Features
 
 - Real-time train state estimation
