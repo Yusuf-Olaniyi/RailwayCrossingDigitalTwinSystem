@@ -175,4 +175,4 @@ This project is licensed under the **MIT License**.
 This project was collaboratively developed as part of a **Digital Twins and AI for Predictive Analytics course project**.
 
 - **Yusuf Olaniyi** – [@Yusuf-Olaniyi](https://github.com/Yusuf-Olaniyi)
-- **Zainab Akintayo** - [@ZainabOlaitan](https://github.com/zakintay-cpu)
+- **Zainab Akintayo** - [@zakintay-cpu](https://github.com/zakintay-cpu)
